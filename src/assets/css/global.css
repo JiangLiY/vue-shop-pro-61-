@@ -10,7 +10,7 @@ html,body,#app {
 /* 给home的左侧功能设置样式 */
 .el-submenu_title,
 .el-menu-item
-{font-size: 13px;}
+{font-size: 14px;}
 
 /* 给左侧功能按钮图标设置样式 */
 i.iconfont{
